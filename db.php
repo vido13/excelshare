@@ -1,8 +1,5 @@
 <?php
-	/*$username = 'u373364879_poda';
-	$password = 'podatki12';
-	$server = 'mysql.hostinger.co.uk';
-	$db_name = 'u373364879_poda';*/
+
 
     $username = 'root';
 	$password = '';
